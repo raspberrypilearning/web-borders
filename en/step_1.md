@@ -1,5 +1,7 @@
 Use the `solid-border` or `dashed-border` class to add a solid or dashed border around a `<section>` or `<div>`. The borders use the `detail2` colour. 
 
+![A section with a dashed border and div elements with dashed border, no border and solid border](images/web-borders.png)
+
 --- code ---
 ---
 language: html
@@ -24,7 +26,5 @@ line_numbers: false
 </section>
 
 --- /code ---
-
-![A section with a dashed border and div elements with dashed border, no border and solid border](images/web-borders.png)
 
 **Tip:** You can adjust the `border` values for the `solid-border` and `dashed-border` classes in 'style.css'
