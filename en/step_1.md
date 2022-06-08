@@ -1,59 +1,30 @@
-## Introduction
+Use the `solid-border` or `dashed-border` class to add a solid or dashed border around a `<section>` or `<div>`. The borders use the `detail2` colour. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: index.html
+line_numbers: false
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+<section>
+    <h2 class="xcenter dashed-border">Lorem Ipsum</h2>
+</section>
+      
+<section class="wrap">
+    <div class="secondary dashed-border xcenter ycenter tile">
+        <h3>Lorem ipsum</h3>
+    </div>
+    <div class="tertiary xcenter ycenter tile">
+        <h3>Lorem ipsum</h3>
+    </div>
+    <div class="primary solid-border xcenter ycenter tile">
+        <h3>Lorem ipsum</h3>
+    </div> 
+</section>
 
---- /collapse ---
+--- /code ---
 
---- collapse ---
----
-title: Additional information for educators
----
+![A section with a dashed border and div elements with dashed border, no border and solid border](images/web-borders.png)
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** You can adjust the `border` values for the `solid-border` and `dashed-border` classes in 'style.css'
