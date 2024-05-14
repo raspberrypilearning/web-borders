@@ -1,6 +1,6 @@
-Use the `solid-border` or `dashed-border` class to add a solid or dashed border around a `<section>` or `<div>`. The borders use the `detail2` colour.
+Utilise la classe `solid-border` ou `dashed-border` pour ajouter une bordure solide ou en pointillés autour d'un `<section>` ou d'un `<div>`. Les bordures utilisent la couleur `detail2`.
 
-![A \<section> with a dashed border, followed by three \<div> elements. One has a dashed border, one has no border, and one has a solid border.](images/web-borders.png)
+![Un \<section> avec une bordure en pointillés, suivi de trois éléments \<div>. L'un d'eux a une bordure en pointillés, l'autre n'a pas de bordure et le troisième a une bordure pleine.](images/web-borders.png)
 
 ## --- code ---
 
@@ -27,4 +27,4 @@ line_numbers: false
 
 \--- /code ---
 
-**Tip:** You can adjust the `border` values for the `solid-border` and `dashed-border` classes in `style.css`.
+**Astuce :** tu peux ajuster les valeurs de `border` pour les classes `solid-border` et `dashed-border` dans `style.css`.
