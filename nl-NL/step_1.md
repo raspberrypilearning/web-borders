@@ -1,4 +1,4 @@
-Use the `solid-border` or `dashed-border` class to add a solid or dashed border around a `<section>` or `<div>`. The borders use the `detail2` colour.
+Gebruik de `solid-border` of `dashed-border` class om een effen of gestippelde rand toe te voegen rond een `<section>` of `<div>`. De randen gebruiken de `detail2` kleur.
 
 ![A \<section> with a dashed border, followed by three \<div> elements. One has a dashed border, one has no border, and one has a solid border.](images/web-borders.png)
 
