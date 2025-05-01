@@ -1,6 +1,6 @@
 Utilise la classe `solid-border` ou `dashed-border` pour ajouter une bordure solide ou en pointillés autour d'un `<section>` ou d'un `<div>`. Les bordures utilisent la couleur `detail2`.
 
-![Un \<section> avec une bordure en pointillés, suivi de trois éléments \<div>. L'un d'eux a une bordure en pointillés, l'autre n'a pas de bordure et le troisième a une bordure pleine.](images/web-borders.png)
+![Un <section> avec une bordure en pointillés, suivi de trois éléments <div>. L'un d'eux a une bordure en pointillés, l'autre n'a pas de bordure et le troisième a une bordure pleine.](images/web-borders.png)
 
 ## --- code ---
 
