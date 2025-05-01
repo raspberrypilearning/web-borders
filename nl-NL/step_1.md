@@ -1,6 +1,6 @@
 Gebruik de `solid-border` of `dashed-border` class om een effen of gestippelde rand toe te voegen rond een `<section>` of `<div>`. De randen gebruiken de `detail2` kleur.
 
-![Een \<section> met een stippellijn, gevolgd door drie \<div> elementen. Eén heeft een stippellijn, één heeft geen rand en één heeft een effen rand.](images/web-borders.png)
+![Een <section> met een stippellijn, gevolgd door drie <div> elementen. Eén heeft een stippellijn, één heeft geen rand en één heeft een effen rand.](images/web-borders.png)
 
 ## --- code ---
 
